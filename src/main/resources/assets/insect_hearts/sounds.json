@@ -1,0 +1,20 @@
+{
+  "fart_start": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "insect_hearts:fart_start",
+        "stream": false
+      }
+    ]
+  },
+  "fart_loop": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "insect_hearts:fart",
+        "stream": false
+      }
+    ]
+  }
+}

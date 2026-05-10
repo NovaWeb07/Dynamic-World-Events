@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "insect_hearts:block/admin_command_block" }
+  }
+}

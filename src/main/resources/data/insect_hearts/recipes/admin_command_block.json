@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RIR",
+    "ITI",
+    "RIR"
+  ],
+  "key": {
+    "R": { "item": "minecraft:redstone_block" },
+    "I": { "item": "minecraft:iron_block" },
+    "T": { "item": "moddd:thunderstrom" }
+  },
+  "result": {
+    "item": "insect_hearts:admin_command_block",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "moddd"
+    }
+  ]
+}

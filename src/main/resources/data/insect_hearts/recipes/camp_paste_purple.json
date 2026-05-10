@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:slime_ball" },
+    { "item": "minecraft:purple_dye" }
+  ],
+  "result": {
+    "item": "insect_hearts:camp_paste_purple",
+    "count": 9
+  }
+}

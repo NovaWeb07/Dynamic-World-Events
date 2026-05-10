@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": { "item": "minecraft:white_dye" },
+    "B": { "item": "minecraft:black_dye" },
+    "C": { "item": "minecraft:brown_dye" },
+
+    "D": { "item": "minecraft:red_dye" },
+    "E": { "item": "minecraft:orange_dye" },
+    "F": { "item": "minecraft:yellow_dye" },
+
+    "G": { "item": "minecraft:lime_dye" },
+    "H": { "item": "minecraft:blue_dye" },
+    "I": { "item": "minecraft:pink_dye" }
+  },
+  "result": {
+    "item": "insect_hearts:camp_paste_red",
+    "count": 9
+  }
+}
