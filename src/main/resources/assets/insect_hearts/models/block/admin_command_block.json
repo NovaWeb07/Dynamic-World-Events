@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "insect_hearts:block/admin_command_block"
-  }
-}
